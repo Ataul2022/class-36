@@ -1,0 +1,72 @@
+{}.text-left{
+    box-shadow: 5px 10px #ddd;
+}
+.text-left h4{
+font-size:20px;
+width: 90%;
+
+}
+.text-left p{}
+.text-left{
+
+}
+.btn-primary{
+    color: white;
+    
+    border-radius: 20px 20px;
+    height: 40px;
+    width: 150px;
+}
+.btn-primary a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 40px;
+margin-left: -18px;
+    
+}
+.btn{
+    
+}
+.ts{
+    border: 2px solid white;
+    border-radius: 20px 20px;
+    color: white;
+    padding: 10px 40px;
+}
+.border form{
+    
+}
+.text-bud{
+
+    
+    border-radius: 20px 20px;
+}
+.lone-item{
+    background: #f6f9fc;
+}
+/* logo. */
+.item{}
+.item h3{
+    
+}
+.item h6{
+    color: #0d6efd;
+}
+.item p{
+    font-size: 15px;
+}
+.logo-item-iner img:hover{
+    background: grey;
+    border-radius: 20px 20px;
+}
+.logo-item-iner img{
+    border: 2px solid grey;
+    border-radius:20px 20px;
+    padding: 10px;
+    
+}
+.logo-item-iner{
+    border: 2px solid grey;
+    padding: 20px;
+    text-align: center;
+}.
